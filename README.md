@@ -75,3 +75,6 @@ This program is a search engine for books... use this application to get informa
 
 
 ### Screen Shots.
+![image](https://user-images.githubusercontent.com/108200823/200008700-70c93af7-7be2-41d2-9932-46e3595adda7.png)
+![image](https://user-images.githubusercontent.com/108200823/200008755-79f7a4ae-9515-4074-b22f-a37518422e9a.png)
+![image](https://user-images.githubusercontent.com/108200823/200008885-c4ac8fac-17c0-447d-9553-9e3e65448d9e.png)
